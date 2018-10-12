@@ -1,0 +1,105 @@
+# UnityGenerated #
+##################
+*.app
+**/[Tt]emp/
+!**/Assets/**/[Tt]emp/
+**/[Ll]ibrary/
+**/[Oo]bj/
+**/[Bb]uild/
+**/Builds/
+**/.vs/
+**/.vscode/
+#**/!Library/ProjectSettings.asset
+
+ 
+# VS MD Generated #
+###################
+*.svd
+*.userprefs
+*.tmproj
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+ 
+# OS Generated #
+################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.Trashes.*
+Icon?
+ehthumbs.db
+ehthumbs.db.*
+Thumbs.db
+Thumbs.db.*
+
+# Compiled source #
+###################
+*.com
+*.class
+*.o
+ 
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+ 
+# Logs and databases #
+######################
+*.log
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# ==============
+# = 2D Toolkig =
+# ==============
+ 
+**/Assets/-tk2d
+**/Assets/-tk2d.*
+**/Assets/Resources/tk2d/*
+**/Assets/Resources/tk2d.*
+
+# =======================
+# =    Castle War    =
+# =======================
+
+**/Assets/_Core/Scenes/nikita_test.unity
+**/Assets/_Core/Scenes/nikita_test.unity.meta
+**/_assets
+**/Assets/_Core/Art/Animations/*.png
+**/Assets/_Core/Art/Animations/*.png.meta
+!**/Editor/[Ll]ibrary/
+!**/Plugins/
+.vs/mp_gen2/xs/UserPrefs.xml
+**/Assets/_Core/Art/ArtAssets/PsdAssets~
+**/Assets/_Core/Art/ArtAssets/PsdAssets~.meta
+Icons.meta
+.vs/mp_gen2/xs/sqlite3/storage.ide
+.vs/mp_gen2/xs/sqlite3/storage.ide-shm
+.vs/mp_gen2/xs/sqlite3/storage.ide-wal
+.idea/.idea.mp_gen2/riderModule.iml
+.idea/.idea.mp_gen2/.idea/contentModel.xml
+.idea/.idea.mp_gen2/.idea/indexLayout.xml
+.idea/.idea.mp_gen2/.idea/modules.xml
+.idea/.idea.mp_gen2/.idea/vcs.xml
+.idea/.idea.mp_gen2/.idea/workspace.xml
+.vscode/launch.json
+.idea
+.vs/Assembly-CSharp/xs
